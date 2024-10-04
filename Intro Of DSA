@@ -1,4 +1,9 @@
-What is DSA (Data Structures and Algorithms)? -> Data structures are specialized formats for organizing and storing the data in a computer. -> And essential for managing the large datasets and in various applications. Examples: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Hash Tables. -> Algorithm: A step-by-step procedure or set of rules to solve a particular problem. Examples: Searching, Sorting, Traversing, Insertion, Deletion.
+What is DSA (Data Structures and Algorithms)? 
+-> Data structures are specialized formats for organizing and storing the data in a computer. 
+-> And essential for managing the large datasets and in various applications. 
+   Examples: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Hash Tables. 
+-> Algorithm: A step-by-step procedure or set of rules to solve a particular problem. 
+   Examples: Searching, Sorting, Traversing, Insertion, Deletion.
 
 Data structures and algorithms (DSA) are important for many reasons, including:
 
@@ -22,6 +27,7 @@ Characters : Single letters or symbols.
 Boolean : Holds true or false values.
 
 Non-Primitive Data Structures: Complex structures, divided into:
+
 Linear Data Structures: Elements are arranged sequentially.
 -Array: A collection of elements identified by index.
   Ex: to store the contacts on our phone
@@ -31,8 +37,9 @@ Linear Data Structures: Elements are arranged sequentially.
    Ex: a deck of cards, piles of books, piles of money.
 -Queue: Follows FIFO (First In First Out) principle.
    Ex: Cashier line in a store, Tirupathi laddu counter.
-Non-Linear Data Structures: Elements are arranged hierarchically.
 
+
+Non-Linear Data Structures: Elements are arranged hierarchically.
 -Trees: A hierarchical structure with nodes representing data.
    Ex:  Facbook and Instagram comments
 -Graphs: Nodes connected by edges representing relationships.
